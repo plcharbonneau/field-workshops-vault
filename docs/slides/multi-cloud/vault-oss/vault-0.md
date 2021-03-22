@@ -39,8 +39,6 @@ name: Introductions
 
 * Pier-Luc Charbonneau
 * Sr SE
-* Secrets Management Experience
-* Favorite Text Editor
 
 ???
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
