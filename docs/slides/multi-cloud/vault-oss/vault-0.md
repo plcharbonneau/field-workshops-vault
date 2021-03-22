@@ -37,8 +37,8 @@ The link to this slide deck
 name: Introductions
 # Introductions
 
-* Your Name
-* Job Title
+* Pier-Luc Charbonneau
+* Sr SE
 * Secrets Management Experience
 * Favorite Text Editor
 
