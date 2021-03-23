@@ -38,7 +38,12 @@ name: Introductions
 # Introductions
 
 * Pier-Luc Charbonneau
-* Sr SE
+* Gilberto Castillo
+* Dan Peacock
+* Mike Nguyen
+* Raff Schirripa
+* Sam Gabrail
+* Luke McCleary
 
 ???
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
